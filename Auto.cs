@@ -90,6 +90,7 @@ namespace PimpMyRide
 
             // Vervang onderstaande regel door je eigen code.
             // En deze info is allen maar bedoeld om GitHub te testen...
+            // Meer testmateriaal
               
             if(aantalGeplaatsteToevoegingen == 5)
                 {
